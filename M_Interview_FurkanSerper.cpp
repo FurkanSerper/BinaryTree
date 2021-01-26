@@ -1,4 +1,4 @@
-﻿// Milsoft_Interview_FurkanSerper.cpp : Bu dosya 'main' işlevi içeriyor. Program yürütme orada başlayıp biter.
+﻿// M_Interview_FurkanSerper.cpp : Bu dosya 'main' işlevi içeriyor. Program yürütme orada başlayıp biter.
 // it is a Binary Tree Search algorithm project created by Furkan Serper 27.01.2021
 // there is a reference value in algorithm. program prints a value which is the closest and bigger and than reference value.
 
